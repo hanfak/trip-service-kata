@@ -1,7 +1,15 @@
 package org.craftedsw.tripservicekata.trip;
 
-import static org.junit.Assert.*;
+import org.assertj.core.api.WithAssertions;
+import org.junit.Test;
 
-public class TripServiceTest {
+public class TripServiceTest implements WithAssertions {
+
+//    @Test
+//    public void shouldThrowExceptionWhenUserNotLoggedIn() throws Exception {
+//
+//    }
+//
+
 
 }
